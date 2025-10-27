@@ -139,7 +139,7 @@ This repository is licensed under the **MIT License** — feel free to use, modi
 
 ## 👨‍💻 **Author**
 
-**Your Name**
+**Name**
 📧 [bricezemba336@gmail.com](mailto:bricezemba336@gmail.com)
 💼 Data Enthusiast | Machine Learning | Big Data
 
